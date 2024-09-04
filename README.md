@@ -8,4 +8,6 @@
 
  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgauffre&theme=shades-of-purple&layout=compact)
 
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kaisel&layout=compact&theme=radical" alt="Arthur-Gauffre" />
+
 </div>
